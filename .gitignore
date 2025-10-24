@@ -1,0 +1,15 @@
+bin/*
+obj/*
+log/*
+!log/statistic.info
+lib/*
+*.png
+*.pdf
+.qodo
+.DS_Store
+REQUEST.md
+PASS.txt
+.vscode/
+compile_commands.json
+.cache/
+__pycache__

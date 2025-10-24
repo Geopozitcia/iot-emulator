@@ -1,0 +1,1 @@
+int is_enc = 0;
